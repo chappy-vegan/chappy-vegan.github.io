@@ -245,11 +245,11 @@
 }
 
 .footer-header-link.email {
-	background-image: url('../images/common/email.png');
+   background-image: url('../images/common/email.svg');
 }
 
 .footer-header-link.instagram {
-	background-image: url('../images/common/insta.png');
+   background-image: url('../images/common/instagram.svg');
 }
 
 .footer-spacer {
