@@ -18,7 +18,7 @@ body {
 	height: 508px;
 	display: flex;
 	flex-direction: column;
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
 }
@@ -101,7 +101,7 @@ body {
 	align-items: center;
 	margin-top: -50px;
 	margin-bottom: 100px;
-	min-width: 1080px;
+	min-width: 1112px;
 }
 .menu1{
 	float: left;
@@ -145,12 +145,12 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 100px;
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
 }
 .big_box2 {
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
 }
@@ -159,7 +159,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 120px;
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
 }
@@ -316,7 +316,7 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 100px;
-	min-width: 1080px;
+	min-width: 1112px;
 }
 .card1 {
 	margin-top: 32px;
