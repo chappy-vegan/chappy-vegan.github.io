@@ -145,25 +145,21 @@ body {
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 100px;
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
 }
 .big_box2 {
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
-	width: 1048px;
-	margin-right: auto;
-	margin-left: auto;
-	margin-bottom: 100px;
 }
 .big_box3 {
 	width: 1080px;
 	margin-right: auto;
 	margin-left: auto;
 	margin-bottom: 120px;
-	min-width: 1080px;
+	min-width: 1112px;
 	padding-right: 16px;
 	padding-left: 16px;
 }
@@ -315,7 +311,13 @@ body {
 	opacity: 0.35;
 	position: absolute;
 }*/
-
+.big_box2 {
+	width: 1048px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 100px;
+	min-width: 1112px;
+}
 .card1 {
 	margin-top: 32px;
 	width: 1048px;
